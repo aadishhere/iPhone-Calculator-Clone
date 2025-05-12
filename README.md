@@ -29,9 +29,8 @@ A simple, yet faithful, clone of the native iPhone Calculator app built using Sw
 1.  **Clone the repository:**
 
     ```bash
-    git clone <repository_url_here>
+    git clone https://github.com/aadishhere/iPhone-Calculator-Clone
     ```
-    (Replace `<repository_url_here>` with the actual URL of your GitHub repository)
 
 2.  **Open the project in Xcode:**
     Navigate to the cloned directory and double-click the `.xcodeproj` or `.xcworkspace` file (`Calculator.xcodeproj`).
